@@ -1,8 +1,8 @@
 Project-Wiki-and-Discussions
 ============================
+**ModelWriter Project Wiki and Discussions**
 
-Project Wiki and Discussions
-
+[GitHub - Step by Step For Beginners using SourceTree GUI](http://www.youtube.com/watch?v=Yq32Ifx0bXw)
 
 Closing issues via commit messages
 -----
