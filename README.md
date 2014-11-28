@@ -12,6 +12,10 @@ Closing issues via commit messages
     fixes modelwriter/wp2#5
     This fixes #34, resolves #23, and closes example_user/example_repo#42
 
+GitHub Notifications
+------
+https://help.github.com/articles/about-notifications/
+
 Permission Levels
 -----
 https://help.github.com/articles/permission-levels-for-an-organization-repository/
