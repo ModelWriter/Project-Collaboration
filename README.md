@@ -39,3 +39,7 @@ https://drive.google.com/file/d/0ByqTKXWo8cT7VFN4WFIwZmFjbHc/view?usp=sharing
 Waffle Manual(GitHub-Waffle Integration)
 -----
 https://drive.google.com/file/d/0ByqTKXWo8cT7N09MOEFOZTZ1WG8/view?usp=sharing
+
+SourceTree Manual(GitHub-SourceTree Integration)
+-----
+https://drive.google.com/file/d/0ByqTKXWo8cT7aEtHcDBlenBUX3M/view?usp=sharing
