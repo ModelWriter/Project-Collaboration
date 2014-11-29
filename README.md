@@ -30,8 +30,12 @@ https://guides.github.com/features/mastering-markdown/
 
 GitHub Manual
 -----
-https://drive.google.com/open?id=0ByqTKXWo8cT7TG1vdGxQbkRqTWc&authuser=0
+https://drive.google.com/file/d/0ByqTKXWo8cT7TG1vdGxQbkRqTWc/view?usp=sharing
 
 EGit Manual(GitHub-Eclipse Integration)
 -----
-https://drive.google.com/open?id=0ByqTKXWo8cT7VFN4WFIwZmFjbHc&authuser=0
+https://drive.google.com/file/d/0ByqTKXWo8cT7VFN4WFIwZmFjbHc/view?usp=sharing
+
+Waffle Manual(GitHub-Waffle Integration)
+-----
+https://drive.google.com/file/d/0ByqTKXWo8cT7N09MOEFOZTZ1WG8/view?usp=sharing
